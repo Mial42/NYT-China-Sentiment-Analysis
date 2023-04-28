@@ -4,3 +4,4 @@ nyt_articles.csv
 nyt_articles_full.csv
 articleIDs.txt
 archivescrape.py
+big_news.csv
