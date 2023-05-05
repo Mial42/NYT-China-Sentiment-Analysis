@@ -13,3 +13,8 @@ china_articles.csv
 china_articles.csv
 corpus.mm
 corpus.mm.index
+lda_model.sav.state
+lda_model.sav.expElogbeta.npy
+lda_model.sav
+dictionary.gensim
+lda_model.sav.id2word
