@@ -8,3 +8,5 @@ big_news.csv
 china_articles.csv
 china_articles_cleaned.csv
 china_articles.csv
+*.csv
+china_articles.csv
